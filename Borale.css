@@ -88,19 +88,67 @@
     left: 170px;
     top: 100px;
 }
+
 .redondoponteiro {
     position: absolute;
     left: 100px;
     top: 300px;
 }
+
 .ponteiro {
     position: absolute;
     left: 170px;
     top: 335px;
 }
+
 .especificacoes {
     position: absolute;
     top: 350px;
+}
+
+.watchretangulo {
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 61px;
+    top: 232px;
+
+}
+
+.tempolivre {
+    position: absolute;
+    width: 296px;
+    height: 42px;
+    left: 39px;
+    top: 169px;
+    
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+}
+.horarioretangulo {
+    position: absolute;
+    left: 126px;
+    top: 232px;
+    color: #000000;
+}
+
+.retangulo {
+    position: absolute;
+    width: 335px;
+    height: 150px;
+    left: 20px;
+    top: 149px;
+
+    /* Primaria */
+
+    border: 2px solid #0D80F2;
+    box-sizing: border-box;
+    border-radius: 20px;
 }
 
 .especificacoesrelogio {
@@ -109,7 +157,7 @@
     height: 38px;
     left: 30px;
     top: 498px;
-    
+
     color: #6EB3F7;
     font-size: 16px;
     line-height: 19px;
@@ -117,4 +165,3 @@
     align-items: center;
     text-align: center;
 }
-
