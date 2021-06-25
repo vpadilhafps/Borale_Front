@@ -1,0 +1,120 @@
+#seta {
+    position: absolute;
+    top: 58px;
+    left: 5px;
+    padding: 4px;
+    color: #000;
+    box-shadow: 1px -1px 0 0px #000 inset;
+    border: solid transparent;
+    border-width: 0 0 15px 15px;
+    transform: rotate(45deg);
+}
+
+.posVoltar {
+    position: absolute;
+    width: 34px;
+    height: 15px;
+    left: 35px;
+    top: 60px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+}
+
+#borda {
+    width: 350px;
+    height: 45px;
+    border-radius: 10px;
+}
+
+.nomelivro {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    left: 145px;
+    top: 60px;
+
+    color: #000;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.nomeapp {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    left: 145px;
+    top: 45px;
+
+    color: #000;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.imglivro {
+    position: absolute;
+    left: 125px;
+    top: 130px;
+}
+
+.caneta {
+    position: absolute;
+    left: 320px;
+    top: 60px;
+}
+
+.livro {
+    position: absolute;
+    left: 35px;
+    top: 60px;
+}
+
+.seta {
+    position: absolute;
+    left: 170px;
+    top: 100px;
+}
+.redondoponteiro {
+    position: absolute;
+    left: 100px;
+    top: 300px;
+}
+.ponteiro {
+    position: absolute;
+    left: 170px;
+    top: 335px;
+}
+.especificacoes {
+    position: absolute;
+    top: 350px;
+}
+
+.especificacoesrelogio {
+    position: absolute;
+    width: 315px;
+    height: 38px;
+    left: 30px;
+    top: 498px;
+    
+    color: #6EB3F7;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
